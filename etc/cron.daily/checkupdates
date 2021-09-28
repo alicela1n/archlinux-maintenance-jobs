@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Downloads updates to pacman cache daily for quicker Syus
+checkupdates -d
